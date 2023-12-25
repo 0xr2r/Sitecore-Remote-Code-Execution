@@ -3,10 +3,15 @@ CVSS Score: 9.8
 Severity: Critical 
 
 Here we are going to give command like return HTTP header  response back like -
+
 My Request -
+
 content-type: admin
+
 Response should be -
+
 content-type: admin
+
 Remote Code Execution 
 
 
